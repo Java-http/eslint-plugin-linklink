@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-linklink",
+  "version": "1.0.0",
+  "description": "自定义eslint规则",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Java-http/eslint-plugin-linklink.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Java-http/eslint-plugin-linklink/issues"
+  },
+  "homepage": "https://github.com/Java-http/eslint-plugin-linklink#readme"
+}
